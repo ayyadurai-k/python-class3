@@ -1,0 +1,14 @@
+list : 
+
+1. Allows modifications
+2. We can change the values at run time
+3. Mutable - we can change
+
+
+tuple : 
+
+1. Don't Allow modifications
+2. We can't change the values at run time
+3. Immutable - we can't change
+
+
