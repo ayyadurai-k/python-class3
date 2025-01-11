@@ -1,0 +1,3 @@
+one argument - ending 
+two arguments - starting , ending
+three arguments - starting , ending , step value
