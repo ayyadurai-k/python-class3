@@ -1,0 +1,45 @@
+round 1 : 
+
+i = 0 
+i < 10 = true
+print(i)
+i = 1
+
+round 2 : 
+
+i=1
+i < 10 = true
+print(i)
+i=2
+
+
+round 3 :
+
+i=2
+i<10 = true
+print(i)
+i=3
+
+...............
+
+
+
+round n : 
+
+i=8
+i<10 = true
+print(i)
+i=9
+
+
+round n1 :
+
+i=9
+i<10 = true
+print(i)
+i=10
+
+round n2 :
+
+i=10
+i<10 = 
