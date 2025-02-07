@@ -13,7 +13,4 @@ class Cat(Animal):
         print("Meow..!")
 
 
-cat = Cat()
-
-cat.make_sound()
-cat.food()
+animal = Animal()
