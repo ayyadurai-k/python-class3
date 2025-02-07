@@ -12,5 +12,5 @@ class Cat(Animal):
     def make_sound(self):
         print("Meow..!")
 
-
-animal = Animal()
+cat = Cat()
+cat.make_sound()
