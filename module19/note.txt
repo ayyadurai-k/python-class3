@@ -1,0 +1,14 @@
+
+Errors : 
+
+1. Compile Time Error. - This will occur based on syntax and any not defined variables.
+2. Run time error.(Exception) - The error will occur when program run example division by zero, Value error.
+
+
+Exception handling : 
+
+Keywords : 
+
+Try - we can wrap the code within "try" block which may raise error.
+Except - Catch the error which raised by try block
+Finally - 
